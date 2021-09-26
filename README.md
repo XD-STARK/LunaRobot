@@ -1,7 +1,7 @@
-# Pɧơɛnıх
+# MISHA ROBOT
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
-Originally a Marie fork, Pɧơɛnıх was created for personal use by [this person](https://t.me/TheRealPhoenix). Feel free to add it to your groups though!
+Originally a Marie for. Feel free to add it to your groups though!
 
 Can be found on telegram as [Pɧơɛnıх](https://t.me/TheRealPhoenixBot).
 
@@ -9,7 +9,7 @@ If you want to create your own bot, you can basically follow the steps given [he
 
 OR
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rsktg/TheRealPhoenixBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XD-STARK/MISHA-BOT.git)
 
 ### Note
 We don't support Heroku anymore. If you can't get it working on Heroku, please don't come to the support chat and complain/ask for assistance.
