@@ -2,7 +2,7 @@
    "addons": [
       {
          "options": {
-            "version": "13"
+            "version": "1"
          },
          "plan": "heroku-postgresql"
       }
@@ -33,16 +33,16 @@
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "615304572"
+         "value": ""
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "TheRealPhoenix"
+         "value": ""
       },
       "PORT": {
          "description": "Port to use for your webhooks.",
          "required": false,
-         "value": "8443"
+         "value": ""
       },
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -50,11 +50,11 @@
       },
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
-         "value": "615304572 745191358"
+         "value": ""
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
-         "value": "254318997 18673980 83489514"
+         "value": ""
       },
       "BL_CHATS": {
           "description": "A space separated list of chat IDs to blacklist. Bot will leave those chats when added to them.",
@@ -77,7 +77,7 @@
       },
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
-         "value": "254318997 18673980 83489514"
+         "value": ""
       }
    },
    "keywords": [
@@ -85,8 +85,8 @@
       "best",
       "group",
       "manager",
-      "phoenix"
+      "Misha"
    ],
-   "name": "Phoenix",
-   "repository": "https://github.com/rsktg/TheRealPhoenixBot"
+   "name": "Misha",
+   "repository": "https://github.com/XD-STARK/MISHA-BOT"
 }
