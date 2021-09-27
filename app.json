@@ -2,7 +2,7 @@
    "addons": [
       {
          "options": {
-            "version": "1"
+            "version": "9.5"
          },
          "plan": "heroku-postgresql"
       }
@@ -33,20 +33,20 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": ""
+         "value": "x_y_x"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "username"
+         "value": "x_y_z"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "123"
+         "value": "988452336"
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
-         "value": ""
+         "value": "-123"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -76,17 +76,17 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": ""
+         "value": "988452336"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": ""
+         "value": "988452336"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": ""
+         "value": "988452336"
       },
       "TOKEN": {
          "description": "Your bot token.",
@@ -106,7 +106,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "1l"
+         "value": "988452336"
       }
    },
    "keywords": [
@@ -115,7 +115,7 @@
       "manager",
       "bot"
    ],
-   "logo": "",
-   "name": "MISHA",
-   "repository": "https://github.com/XD-STARK/MISHA-BOT
+   "logo": "https://telegra.ph/file/72b6a2032bd19642ff759.jpg",
+   "name": "phantom",
+   "repository": "https://github.com/leobrownlee/phantom"
 }
