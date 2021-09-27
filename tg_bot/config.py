@@ -26,6 +26,7 @@ class Config(object):
     NO_LOAD = ['translation', 'rss']   
     WEBHOOK = False
     URL = None
+    SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
 
     # OPTIONAL
     #ID Seperation format [1,2,3,4]
