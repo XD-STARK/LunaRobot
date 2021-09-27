@@ -13,15 +13,15 @@ class Config(object):
 
     # REQUIRED
     # remove <fill this> completely and fill ur own values
-    API_KEY = "<fill this>"
-    OWNER_ID = "<fill this>"  # If you dont know, run the bot and do /id in your private chat with it
-    OWNER_USERNAME = "<fill this>"
+    API_KEY = "2015615023:AAHZtGHR-8nHtrIALkdne69UlL3mOZqDsfA"
+    OWNER_ID = "1951703380"  # If you dont know, run the bot and do /id in your private chat with it
+    OWNER_USERNAME = "CAD_BALY"
 
     # RECOMMENDED
     # remove <without commas> and fill channel ID with -, just channel ID without " "
     SQLALCHEMY_DATABASE_URI = 'sqldbtype://username:pw@hostname:port/db_name'  # needed for any database modules
     MESSAGE_DUMP = None  # needed to make sure 'save from' messages persist
-    GBAN_LOGS = <without commas> #Channel ID here with -
+    GBAN_LOGS = -1001517989667 #Channel ID here with -
     LOAD = []
     NO_LOAD = ['translation', 'rss']   
     WEBHOOK = False
@@ -39,7 +39,7 @@ class Config(object):
     STRICT_GBAN = True
     STRICT_GMUTE = True
     WORKERS = 8  # Number of subthreads to use. Set as number of threads your processor uses
-    BAN_STICKER = '<idk lol - fill this>'  # banhammer marie sticker
+    BAN_STICKER = 'CAACAgUAAxkBAAIHsl5nbqXdDTmpG2HFDNhnwvE5kFbWAAI9AQAC3pTNLzeTCUmnhTneGAQ'  # banhammer marie sticker
     ALLOW_EXCL = False  # Allow ! commands as well as /
     CASH_API_KEY = None # Get one from https://www.alphavantage.co/support/#api-key
     TIME_API_KEY = None # Get one from https://timezonedb.com/register
