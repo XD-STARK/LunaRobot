@@ -1,6 +1,5 @@
-# MISHA ROBOT
+# LUNA ROBOT
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XD-STARK/tg_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/XD-STARK/LunaRobot)
 
-https://heroku.com/deploy?template=https://github.com/XD-STARK/MISHA-BOT.git
