@@ -65,7 +65,7 @@ RUN apt update && apt upgrade -y && \
 RUN pip3 install --upgrade pip setuptools
 
 # Copy Python Requirements to /root/tg_bot
-RUN git clone -b shiken https://github.com/XD-STARK/tg_bot /root/tg_bot
+RUN git clone -b shiken https://github.com/XD-STARK/LunaRobot /root/tg_bot
 WORKDIR /root/tg_bot
 
 #Copy config file to /root/tg_bot/tg_bot
