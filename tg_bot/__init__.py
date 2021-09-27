@@ -172,7 +172,7 @@ else:
         LOGGER.warning("Can't connect to SpamWatch!")
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
-telethn = TelegramClient("PglRobot", API_ID, API_HASH)
+telethn = TelegramClient("tg_bot", API_ID, API_HASH)
 pgram = Client("tg_bot", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 dispatcher = updater.dispatcher
 
